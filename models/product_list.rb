@@ -1,2 +1,0 @@
-class ProductList < ApplicationRecord
-end
